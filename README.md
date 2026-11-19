@@ -48,15 +48,14 @@ Companion editorial site: **[Priviy](https://www.priviy.com/)** — independent 
 ## Encryption layers (any provider)
 
 - [Cryptomator](https://cryptomator.org/) — open-source client-side encryption for any cloud.
-- [Boxcryptor](https://www.boxcryptor.com/) — (acquired by Dropbox, EOL but historical reference).
 - [rclone crypt](https://rclone.org/crypt/) — encryption backend with cloud-agnostic config.
 - [gocryptfs](https://github.com/rfjakob/gocryptfs) — Go encrypted overlay filesystem.
 - [age](https://github.com/FiloSottile/age) — modern simple file encryption tool.
 
 ## Jurisdiction & legal analysis
 
-- Editorial: [E2E vs zero-knowledge cloud storage 2026 (FR)](https://www.priviy.com/fr/e2e-vs-zero-knowledge-cloud-storage-2026).
-- Editorial: [E2E vs zero-knowledge cloud storage 2026 (EN)](https://www.priviy.com/en/e2e-vs-zero-knowledge-cloud-storage-2026).
+- Editorial: [E2E vs zero-knowledge cloud storage 2026 (FR)](https://www.priviy.com/fr/blog/e2e-vs-zero-knowledge-cloud-storage-2026).
+- Editorial: [E2E vs zero-knowledge cloud storage 2026 (EN)](https://www.priviy.com/en/blog/e2e-vs-zero-knowledge-cloud-storage-2026).
 - [Five Eyes / Fourteen Eyes overview (Wikipedia)](https://en.wikipedia.org/wiki/UKUSA_Agreement).
 - [CLOUD Act explained — EFF](https://www.eff.org/issues/cloud-act).
 - [GDPR & cloud storage — ENISA](https://www.enisa.europa.eu/publications/).
@@ -68,12 +67,10 @@ Companion editorial site: **[Priviy](https://www.priviy.com/)** — independent 
 - [Proton transparency reports](https://proton.me/blog/transparency-report).
 - [Mega source code review (2022, Five Eyes attack)](https://mega.io/security).
 - [Tutanota security audit](https://tuta.com/security/).
-- [Sync.com SOC 2 + audit](https://www.sync.com/blog/sync-soc-2-audit/).
 
 ## File-sharing tools
 
 - [OnionShare](https://onionshare.org/) — Tor-anonymous one-shot file sharing.
-- [Send (Firefox fork)](https://send.tutanota.com/) — E2E temporary file send.
 - [Bitwarden Send](https://bitwarden.com/products/send/) — small files + secrets.
 - [Wormhole.app](https://wormhole.app/) — Magic Wormhole web port.
 
